@@ -1,4 +1,4 @@
-                                                                    Capture and Analyze Network Traffic Using Wireshark.
+                                                      Capture and Analyze Network Traffic Using Wireshark.
 1. Installed the wireshark tool.
 2. Started the packet capturing and simultaneously i visited the youtube.com.
 3. After some browsing truned off the packet capturing and saved the file as pcap.
