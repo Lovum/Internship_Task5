@@ -6,8 +6,4 @@
 5. Protocols found were: ARP, DNS, TCP and so on.
 
 
-   Learning outcomes:
-1. Packet Capturing.
-2. Traffic analysis.
-3. Protocol analysis.
-4. Networking.
+   Learning outcomes: Packet Capturing, Traffic analysis, Protocol analysis, Networking.
